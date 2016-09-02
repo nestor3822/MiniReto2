@@ -63,7 +63,6 @@ class Auto {
  
 }
 
-var velo : Velocidades
 var carro = Auto ()
 var estado = (carro.velocidad.rawValue, String(carro.velocidad))
 
